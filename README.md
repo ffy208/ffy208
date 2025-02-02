@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 Junior at [UBC](https://www.ubc.ca/), BSc in Computer Science
+- 🏫 Junior at [UBC](https://www.cs.ubc.ca/), BSc in Computer Science
 - 🧑🏻‍💻 Java, Python, C/C++
 - 🏂 Snowboard Instructor
 

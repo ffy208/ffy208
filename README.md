@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - 🏫 Junior at [UBC](https://www.cs.ubc.ca/), BSc in Computer Science
 - 🧑🏻‍💻 Java, Python, C/C++
 - 🏂 Snowboard Instructor
+- 🌱 I’m currently learning 💡 Recommender system
+- 🤔 I’m looking for help with internship opportunities in software engineering & research collaborations in ML/NLP. Excited to learn and contribute!
 
 ### Find me around the web 🌎:
-- <a href="https://www.linkedin.com/in/ffy208/">LinkedIn</a>
-- [kaggle](https://www.kaggle.com/ffy208)
-- [Medium](https://medium.com/@frankyang.cc)
+- 💼[LinkedIn](https://www.linkedin.com/in/ffy208/)
+- 🏅[kaggle](https://www.kaggle.com/ffy208)
+- ✍️[Medium](https://medium.com/@frankyang.cc)

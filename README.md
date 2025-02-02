@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Frank Yang
 
 <!--
 **ffy208/ffy208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏫 Junior at [UBC](https://www.ubc.ca/), BSc in Computer Science
+- 🧑🏻‍💻 Java, Python, C/C++
+- 🏂 Snowboard Instructor
+
+### Find me around the web 🌎:
+- <a href="https://www.linkedin.com/in/ffy208/">LinkedIn</a>
+- [kaggle](https://www.kaggle.com/ffy208)
+- [Medium](https://medium.com/@frankyang.cc)

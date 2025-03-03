@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Here are some of my projects that you can check out:
 -->
 ## 🚀 Deployed Project
-- 🎓 [**Insight UBC**](http://52.39.196.23:3000/) - A full-stack web application that allows users to query UBC course data efficiently.For testing, [click here](https://github.com/ubccpsc/310/raw/main/resources/archives/pair.zip) to download the dataset.
+- 🎓 [**UniQuery**](http://52.39.196.23/) - A full-stack web application that allows users to query UBC course data efficiently.For testing, [click here](https://github.com/ubccpsc/310/raw/main/resources/archives/pair.zip) to download the dataset.
 
 
 ### Find me around the web 🌎:

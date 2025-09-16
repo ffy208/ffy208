@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 Senior at [UBC](https://www.cs.ubc.ca/), BSc in Computer Science
-- 🧑🏻‍💻 Java, Python, C/C++
-- 🏂 Snowboard Instructor
+- 🏫 [GaTech](https://www.cc.gatech.edu/), MSc in Computer Science
+- 🏫 [UBC](https://www.cs.ubc.ca/), BSc in Computer Science
+- 🧑🏻‍💻 Java, Python, C/C++, Go
+- 🏂 Snowboard Instructor (CASI)
 - 🌱 I’m currently learning 💡 Recommender system
 - 🤔 I’m looking for help with internship opportunities in software engineering & research collaborations in ML/NLP. Excited to learn and contribute!
 

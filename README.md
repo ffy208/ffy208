@@ -11,7 +11,7 @@ learning, LLM systems, and AI agents.
 - ML, LLM, DRL, world models, and embodied AI
 - Full-stack engineering for useful AI systems
 - Research projects that connect modeling, evaluation, and real workflows
-- Skiing and teaching as a CASI snowboard instructor
+- Snowboarding and teaching as a CASI snowboard instructor
 
 ### Selected Projects
 

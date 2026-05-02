@@ -15,24 +15,24 @@ learning, LLM systems, and AI agents.
 
 ### Selected Projects
 
-- [Inductify](https://ffy208.github.io/ffy208/assets/projects/Inductify/) -
+- [Inductify](https://ffy208.github.io/assets/projects/Inductify/) -
   AI-powered onboarding assistant with LangChain, RAG, ChromaDB, FastAPI,
   OpenAI, and Docker.
-- [UniQuery](https://ffy208.github.io/ffy208/assets/projects/UniQuery/) -
+- [UniQuery](https://ffy208.github.io/assets/projects/UniQuery/) -
   Full-stack web application for querying UBC course data.
 
 ### Research
 
-- [Soccer-Twos Multi-Agent RL](https://ffy208.github.io/ffy208/assets/projects/Soccer-Twos-RL/) -
+- [Soccer-Twos Multi-Agent RL](https://ffy208.github.io/assets/projects/Soccer-Twos-RL/) -
   PPO self-play curriculum for 2v2 Soccer-Twos with reward shaping and mixed
   opponents.
-- [GNNs for Product Recommendation](https://ffy208.github.io/ffy208/assets/projects/GNN-Recommendation/) -
+- [GNNs for Product Recommendation](https://ffy208.github.io/assets/projects/GNN-Recommendation/) -
   Graph neural network study for Amazon co-purchase recommendation.
   [Preprint](https://arxiv.org/abs/2508.14059)
 
 ### Links
 
-- [Portfolio](https://ffy208.github.io/ffy208/)
+- [Portfolio](https://ffy208.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?user=ZZki0VgAAAAJ&hl)
 - [LinkedIn](https://www.linkedin.com/in/ffy208/)
 - [GitHub](https://github.com/ffy208)

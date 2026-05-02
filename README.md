@@ -1,37 +1,19 @@
-## Hi there 👋 I'm Frank Yang
+## Hi, I'm Frank Yang
 
-<!--
-**ffy208/ffy208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student at Georgia Tech, previously CS at UBC. I am interested in software engineering, machine learning, NLP, and recommender systems.
 
-Here are some ideas to get you started:
+- Currently exploring recommender systems and applied ML/NLP
+- Looking for software engineering internships and research collaborations
+- Experienced with Java, Python, C/C++, and Go
+- CASI snowboard instructor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🏫 [GaTech](https://www.cc.gatech.edu/), MSc in Computer Science
-- 🏫 [UBC](https://www.cs.ubc.ca/), BSc in Computer Science
-- 🧑🏻‍💻 Java, Python, C/C++, Go
-- 🏂 Snowboard Instructor (CASI)
-- 🌱 I’m currently learning 💡 Recommender system
-- 🤔 I’m looking for help with internship opportunities in software engineering & research collaborations in ML/NLP. Excited to learn and contribute!
+### Featured Project
 
-<!--
-等有2个项目了改成这个:
-## 🚀 Deployed Projects
-Here are some of my projects that you can check out:
--->
-## 🚀 Deployed Project
-- 🎓 [**UniQuery**](http://52.39.196.23/) - A full-stack web application that allows users to query UBC course data efficiently.For testing, [click here](https://github.com/ubccpsc/310/raw/main/resources/archives/pair.zip) to download the dataset.
+- [UniQuery](http://52.39.196.23/) - A full-stack web application for querying UBC course data efficiently.
 
+### Links
 
-### Find me around the web 🌎:
-- 💼[LinkedIn](https://www.linkedin.com/in/ffy208/)
-- 🏅[kaggle](https://www.kaggle.com/ffy208)
-- ✍️[Medium](https://medium.com/@frankyang.cc)
-
+- [Personal Website](https://ffy208.github.io/ffy208/)
+- [LinkedIn](https://www.linkedin.com/in/ffy208/)
+- [Kaggle](https://www.kaggle.com/ffy208)
+- [Medium](https://medium.com/@frankyang.cc)

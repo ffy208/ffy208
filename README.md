@@ -18,6 +18,9 @@ learning, LLM systems, and AI agents.
 - [Inductify](https://ffy208.github.io/assets/projects/Inductify/) -
   AI-powered onboarding assistant with LangChain, RAG, ChromaDB, FastAPI,
   OpenAI, and Docker.
+- [Data Processing Web System](https://ffy208.github.io/assets/projects/DataProcessingWebSystem/) -
+  Fault-tolerant async processing system with Celery, Redis, PostgreSQL,
+  SQLAlchemy, Alembic, and uv.
 - [UniQuery](https://ffy208.github.io/assets/projects/UniQuery/) -
   Full-stack web application for querying UBC course data.
 

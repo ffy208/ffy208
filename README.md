@@ -26,6 +26,11 @@ learning, LLM systems, and AI agents.
 
 ### Research
 
+- [On-Policy Distillation for Vision-Language Reasoning](https://ffy208.github.io/On-Policy-Distillation-for-Vision-Language-Reasoning/) -
+  Transferred on-policy distillation to Qwen3-VL on ChartQA: a 2B student
+  trained on 300 questions matches supervised distillation on 3,000, with a
+  token-level analysis of where the teacher's feedback lands.
+  [Code](https://github.com/ffy208/On-Policy-Distillation-for-Vision-Language-Reasoning)
 - [Soccer-Twos Multi-Agent RL](https://ffy208.github.io/assets/projects/Soccer-Twos-RL/) -
   PPO self-play curriculum for 2v2 Soccer-Twos with reward shaping and mixed
   opponents.
